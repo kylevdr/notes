@@ -1,6 +1,7 @@
 # Angular
 
 ### Angular-CLI
+- Generate component within a specific folder: `ng g c <folder-name>/<component-name>`
 - Use flag --lint-fix on generate command to follow tslint config
 - Config:
   - To automatically lint-fix generators:
